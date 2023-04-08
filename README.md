@@ -1,1 +1,1 @@
-# Final-Year-Project-Leukemia-Detectio-System
+# Final-Year-Project-Leukemia-Detection-System
